@@ -1,0 +1,23 @@
+result for VIN: WDD2210561A233135Array
+(
+    [0] => Make
+    [1] => Manufacturer
+    [2] => Plant Country
+    [3] => Product Type
+    [4] => Manufacturer Address
+    [5] => Model
+    [6] => Check Digit
+    [7] => Sequential Number
+    [8] => Model Year
+    [9] => Body
+    [10] => Drive
+    [11] => Number of Seats
+    [12] => Number of Doors
+    [13] => Fuel Type - Primary
+    [14] => Engine Displacement (ccm)
+    [15] => Engine Power (kW)
+    [16] => Engine Cylinders
+    [17] => Transmission
+    [18] => Number of Gears
+)
+1

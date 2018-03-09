@@ -1,0 +1,52 @@
+result for VIN: WDZ2210561A233315Array
+(
+    [0] => Array
+        (
+            [label] => Manufacturer
+            [value] => Daimler AG
+        )
+
+    [1] => Array
+        (
+            [label] => Plant Country
+            [value] => Germany
+        )
+
+    [2] => Array
+        (
+            [label] => Product Type
+            [value] => Vehicles - all types
+        )
+
+    [3] => Array
+        (
+            [label] => Manufacturer Address
+            [value] => Mercedesstrasse 137, D-70546 Stuttgart, Germany
+        )
+
+    [4] => Array
+        (
+            [label] => Check Digit
+            [value] => 6
+        )
+
+    [5] => Array
+        (
+            [label] => Model Year
+            [value] => 2001
+        )
+
+    [6] => Array
+        (
+            [label] => Sequential Number
+            [value] => 233315
+        )
+
+    [7] => Array
+        (
+            [label] => Make
+            [value] => Mercedes-Benz
+        )
+
+)
+1

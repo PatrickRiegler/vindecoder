@@ -1,0 +1,118 @@
+result for VIN: WDD2210561A233315Array
+(
+    [0] => Array
+        (
+            [label] => Make
+            [value] => Mercedes-Benz
+        )
+
+    [1] => Array
+        (
+            [label] => Manufacturer
+            [value] => Daimler AG
+        )
+
+    [2] => Array
+        (
+            [label] => Plant Country
+            [value] => Germany
+        )
+
+    [3] => Array
+        (
+            [label] => Product Type
+            [value] => Vehicles - all types
+        )
+
+    [4] => Array
+        (
+            [label] => Manufacturer Address
+            [value] => Mercedesstrasse 137, D-70546 Stuttgart, Germany
+        )
+
+    [5] => Array
+        (
+            [label] => Model
+            [value] => Class S
+        )
+
+    [6] => Array
+        (
+            [label] => Check Digit
+            [value] => 6
+        )
+
+    [7] => Array
+        (
+            [label] => Sequential Number
+            [value] => 233315
+        )
+
+    [8] => Array
+        (
+            [label] => Model Year
+            [value] => 2001
+        )
+
+    [9] => Array
+        (
+            [label] => Body
+            [value] => Sedan/Saloon
+        )
+
+    [10] => Array
+        (
+            [label] => Drive
+            [value] => Rear-wheel drive
+        )
+
+    [11] => Array
+        (
+            [label] => Number of Seats
+            [value] => 5
+        )
+
+    [12] => Array
+        (
+            [label] => Number of Doors
+            [value] => 4
+        )
+
+    [13] => Array
+        (
+            [label] => Fuel Type - Primary
+            [value] => Gasoline
+        )
+
+    [14] => Array
+        (
+            [label] => Engine Displacement (ccm)
+            [value] => 3498
+        )
+
+    [15] => Array
+        (
+            [label] => Engine Power (kW)
+            [value] => 200
+        )
+
+    [16] => Array
+        (
+            [label] => Engine Cylinders
+            [value] => 6
+        )
+
+    [17] => Array
+        (
+            [label] => Transmission
+            [value] => Automatic
+        )
+
+    [18] => Array
+        (
+            [label] => Number of Gears
+            [value] => 7
+        )
+
+)
+1
